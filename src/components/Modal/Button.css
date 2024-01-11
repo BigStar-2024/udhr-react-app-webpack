@@ -1,0 +1,33 @@
+button.enabled {
+    background-color: #3898ec;
+    font-size: 14px;
+    color: white;
+    margin: 3px;
+    padding-top: 9px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 9px;
+    border-radius: 20px;
+}
+button.disabled {
+    background-color: #7e7e7e;
+    font-size: 14px;
+    color: white;
+    margin: 3px;
+    padding-top: 9px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 9px;
+    border-radius: 20px;
+
+}
+input {
+    text-align: center;
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    background: papayawhip;
+    border: none;
+    border-radius: 20px;
+}
